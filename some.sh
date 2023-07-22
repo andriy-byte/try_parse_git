@@ -10,3 +10,6 @@ read last_name
 
 # Display a personalized message
 echo "Hello, $first_name $last_name!"
+echo -e "\n\n"
+read -p "Press enter to continue"
+
